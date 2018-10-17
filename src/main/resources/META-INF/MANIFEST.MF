@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: jaxb-api-2.1.jar aliyun-java-sdk-core-4.1.2.jar stax-api-1
+ .0-2.jar jaxb-impl-2.1.jar gson-2.8.2.jar libs\jaxb-core-2.1.14.jar l
+ ibs\junit-4.12.jar libs\hamcrest-core-1.3.jar libs\commons-codec-1.9.
+ jar libs\commons-logging-1.2.jar libs\aliyun-java-sdk-domain-3.6.0.ja
+ r libs\httpcore-4.4.6.jar libs\httpclient-4.5.3.jar libs\aliyun-java-
+ sdk-alidns-2.0.6.jar libs\activation-1.1.1.jar
+Main-Class: Test
+
